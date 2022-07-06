@@ -1,2 +1,2 @@
-# Prediction-of-Male-Survivors-Titanic
-The intention of this project is to predict the survival of male passengers in the titanic
+# Prediction-of-Survivors-Titanic
+The intention of this project is to predict the survival of passengers in the titanic
